@@ -19,8 +19,6 @@ Bir emlak ilan platformunun listeleme verilerini sayfa sayfa çeken, temizleyen 
 
 `baslik`, `konum`, `oda`, `m2`, `fiyat`
 
-<!-- Sütun adlarını kendi son sürümüne göre güncelle -->
-
 ## Kullanılan Teknolojiler
 
 Python 3, `requests`, `pandas`, `openpyxl`, `sqlite3`, `logging`
